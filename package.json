@@ -1,0 +1,12 @@
+{
+  "name": "question8",
+  "version": "1.0.0",
+  "description": "My response to question 8 in Workflow 2 - ma2",
+  "main": "index.js",
+  "repository": "https://github.com/sono81/yarn.git",
+  "author": "Sondre Nordjore",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
